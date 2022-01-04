@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Product.txt"
+  DTS:DTSID="{8CB4FA84-5B08-4781-A875-B85AB662022A}"
+  DTS:CreationName="FILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:FileUsageType="1"
+      DTS:ConnectionString="C:\Users\monso\projects\unzip\Product.txt" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
